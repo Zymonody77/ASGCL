@@ -55,7 +55,7 @@ Same as directory GDSC.
   - cell_gene.csv records cell line gene expression features. 
   - cell_mutation.csv records somatic mutation features of cell lines.
 
-└─GDSC
+└─CCLE
     │  main.py
     │  
     ├─api
