@@ -22,7 +22,7 @@ torch-geometric2.5.3
   - null_mask.csv records the null values in the cell line-drug association matrix. 
   - threshold.csv records the drug sensitivity threshold.
 
-└─GDSC
+└─CCLE
     │  main.py
     │  
     ├─api
